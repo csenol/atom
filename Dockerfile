@@ -18,3 +18,4 @@ RUN npm install -g npm --loglevel error
 
 ADD . /atom
 WORKDIR /atom
+#test
